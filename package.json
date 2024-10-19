@@ -1,0 +1,19 @@
+{
+  {
+    "name": "seu-projeto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start-sktio": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.21.1",
+      "socket.io": "^4.8.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
+}
